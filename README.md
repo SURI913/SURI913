@@ -13,5 +13,7 @@
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/
+        </td>
+</table>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
