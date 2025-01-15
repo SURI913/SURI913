@@ -3,9 +3,6 @@
         <th align="center">
             Most Languages
         </th>
-        <th align="center">
-            GitHub Stats
-        </th>
     </tr>
     <tr>
         <td>
