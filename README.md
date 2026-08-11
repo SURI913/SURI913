@@ -1,14 +1,4 @@
-<table>
-    <tr>
-        <th align="center">
-            Most Languages
-        </th>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURI913&layout=compact&langs_count=8&hide=makefile,cmake&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f" alt="Top Langs">
-        </td>
-</table>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moro913)](https://solved.ac/moro913/)
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
