@@ -175,9 +175,9 @@ public:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SURI913&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURI913&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -185,7 +185,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SURI913&theme=tokyonight&hide_border=true">
 
 </div>
 
