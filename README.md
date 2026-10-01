@@ -55,9 +55,9 @@ public:
 
 ---
 
-# Tech Stack
+# 🥞 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -125,7 +125,7 @@ public:
 
 <br>
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -138,41 +138,41 @@ public:
 
 # 🛠 Tools
 
-## Development
-
-<p>
+<div align="center">
+  <p><strong><font size="6">Development</font></strong></p>
+  
   <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
-</p>
+</div>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</p>
+</div>
 
 <br>
-
-## 🎨 Design
-
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-</p>
-
-<br>
-
----
-
-# 🌱 Currently Studying
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Algorithms-2C3E50?style=for-the-badge&logo=thealgorithms&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20%26%20ML-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <p><strong><font size="6">Design</font></strong></p>
+  
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+</div>
+
+<br>
+
+
+<div align="center">
+
+  <p><strong><font size="6">🌱 Currently Studying</font></strong></p>
+  
+  <img src="https://img.shields.io/badge/Algorithms-2C3E50?style=for-the-badge&logo=thealgorithms&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 </div>
 
