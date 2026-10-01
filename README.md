@@ -2,13 +2,11 @@
 
 <!-- Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SURI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Software%20%7C%20AI&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=E1E5C5&height=220&section=header&text=SURI&fontSize=70&fontColor=6A7363&animation=fadeIn&fontAlignY=40&desc=Game%20Developer%20%7C%20Software%20%7C%20AI&descAlignY=62&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC08D&center=true&vCenter=true&width=650&lines=Game+Developer+%F0%9F%8E%AE;Software+Developer+%F0%9F%92%BB;AI+%26+Backend+Developer+%F0%9F%A4%96;Keep+Learning%2C+Keep+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7E9E9B&center=true&vCenter=true&width=650&lines=Game+Developer+%F0%9F%8E%AE;Software+Developer+%F0%9F%92%BB;AI+%26+Backend+Developer+%F0%9F%A4%96;Keep+Learning%2C+Keep+Building+%F0%9F%9A%80" />
 </a>
-
-<br>
 
 ### 👋 Hi, I'm SURI
 
@@ -235,11 +233,8 @@ public:
 
 <div align="center">
 
-## 🚀 Keep Learning, Keep Building.
+🚀 Keep Learning, Keep Building.
 
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADBFA0,50:E1E5C5,100:7E9E9B&height=120&section=footer"/>
 
 </div>
