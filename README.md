@@ -57,6 +57,8 @@ public:
 
 # 🥞 Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 
 <p>
@@ -65,6 +67,15 @@ public:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+  
+</div>
 
 <br>
 
@@ -125,54 +136,42 @@ public:
 
 <br>
 
-### 🗄️ Database
+## 🎮 🌱 Currently Studying
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Algorithms-2C3E50?style=for-the-badge&logo=thealgorithms&logoColor=white">
+<img src="https://img.shields.io/badge/AI%20%26%20ML-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
-
-<br>
+  
 
 ---
 
 # 🛠 Tools
 
 <div align="center">
-  <p><strong><font size="6">Development</font></strong></p>
+  <h3> Development </h3>
   
   <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea" />
+  </a>
+
 </div>
 
 <br>
 
 <div align="center">
-
-  <p><strong><font size="6">Design</font></strong></p>
-  
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-</div>
-
-<br>
-
-
-<div align="center">
-
-  <p><strong><font size="6">🌱 Currently Studying</font></strong></p>
-  
-  <img src="https://img.shields.io/badge/Algorithms-2C3E50?style=for-the-badge&logo=thealgorithms&logoColor=white">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <h3> Design </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma" />
+  </a>
 
 </div>
 
@@ -212,7 +211,5 @@ public:
 <div align="center">
 
 🚀 Keep Learning, Keep Building.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADBFA0,50:E1E5C5,100:7E9E9B&height=120&section=footer"/>
 
 </div>
