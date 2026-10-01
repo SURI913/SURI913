@@ -55,7 +55,7 @@ public:
 
 ---
 
-# 💪 Tech Stack
+# Tech Stack
 
 ## 💻 Languages
 
@@ -180,7 +180,7 @@ public:
 
 ---
 
-# 🧠 Algorithm
+# 💡 Algorithm
 
 <div align="center">
 
@@ -190,28 +190,6 @@ public:
 <span>
   <img src="http://mazandi.herokuapp.com/api?handle=moro913&theme=warm"/>
 </span>
-
-</div>
-
-<br>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SURI913&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURI913&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SURI913&theme=tokyonight&hide_border=true">
 
 </div>
 
