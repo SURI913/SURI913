@@ -151,7 +151,7 @@ public:
 # 🛠 Tools
 
 <div align="center">
-  <h3> Development </h3>
+  <h3>⌨ Development </h3>
   
   <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
@@ -168,7 +168,7 @@ public:
 <br>
 
 <div align="center">
-  <h3> Design </h3>
+  <h3>🎨 Design </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma" />
   </a>
