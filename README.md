@@ -100,6 +100,31 @@ public:
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
 </p>
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌏 <a href="https://github.com/SURI913/Pale_Blue_Dot">Pale Blue Dot</a></h4>
+      <p>Unity 팀 프로젝트 · UI 및 시스템 개발</p>
+      <p><a href="https://github.com/SURI913/Pale_Blue_Dot"><img src="https://img.shields.io/badge/View_Project-203A43?style=flat-square&logo=github&logoColor=white" alt="Pale Blue Dot 저장소 보기"></a> <a href="https://yogame.itch.io/palebluedot"><img src="https://img.shields.io/badge/Play-4FC08D?style=flat-square&logo=itchdotio&logoColor=white" alt="Pale Blue Dot 플레이"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚛️ <a href="https://github.com/SURI913/OpenGL-physics">OpenGL Physics</a></h4>
+      <p>C++ · OpenGL 기반 게임 물리 구현</p>
+      <p><a href="https://github.com/SURI913/OpenGL-physics"><img src="https://img.shields.io/badge/View_Project-203A43?style=flat-square&logo=github&logoColor=white" alt="OpenGL Physics 저장소 보기"></a></p>
+    </td>
+  </tr>
+  <!-- 대표 프로젝트 추가: 위의 <tr>...</tr>을 복사하고, 2개의 <td>에 이름·설명·링크를 작성하세요. -->
+</table>
+
+<details>
+<summary><b>📂 More Projects</b> · 다른 프로젝트 펼쳐보기</summary>
+<!-- 프로젝트 추가: 위 표에 | [프로젝트 이름](저장소 URL) | 한 줄 소개 | 형식으로 한 행을 추가하세요. -->
+
+</details>
+<!-- GAME_PROJECTS_END -->
+
 <br>
 
 ## 🗄️ Database
@@ -164,6 +189,9 @@ public:
 <a href="https://solved.ac/moro913/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moro913">
 </a>
+<span>
+  <img src="http://mazandi.herokuapp.com/api?handle=moro913&theme=warm"/>
+</span>
 
 </div>
 
